@@ -1,0 +1,20 @@
+ body, html {
+  height: 100%;
+  background-image: url("./stew.png"), url("./ayemase.png");
+  background-position: left, right;
+  background-repeat: no-repeat;
+  background-size: 50%;
+
+  margin: 0;
+}
+
+.special{
+  width: 50%;
+  height: 550px;
+  opacity: 0.8;
+  margin: auto;
+}
+
+.title_font{
+  font-family: 'Kaushan Script', cursive;
+}
